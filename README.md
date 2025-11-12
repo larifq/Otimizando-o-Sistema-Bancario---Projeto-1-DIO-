@@ -1,2 +1,2 @@
 # Otimizando-o-Sistema-Bancario---Projeto-1-DIO-
-O projeto consiste em otimizar o sistema bancário criado pela DIO (disponível em: https://github.com/digitalinnovationone/trilha-python-dio/tree/main/00%20-%20Fundamentos) para as aulas do curso de Back-end com Python da plataforma DIO.
+O projeto consiste em otimizar o código do sistema bancário criado pela DIO (código disponível em: https://github.com/digitalinnovationone/trilha-python-dio/blob/main/00%20-%20Fundamentos/desafio.py) com objetivo de utilizar funções no código para treinar habilidades obtidas através das aulas do curso de Back-end com Python da plataforma DIO.
